@@ -12,6 +12,10 @@ table{
 	margin-right:auto;
 }
 
+table td {
+    border: 1px solid black;
+}
+
 .green{
 	background-color:green;
 }
